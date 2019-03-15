@@ -1,1 +1,1 @@
-worker: python boto.py
+worker: python ServerNuker/boto.py
